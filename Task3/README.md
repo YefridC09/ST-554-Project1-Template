@@ -16,5 +16,10 @@ Please replace “Feedback giver #x” with a group member’s name below and ad
   * I would consider spacing out some of the code in `MSE2` and putting the comments above so it's a little easier to read.
 
 
-- Feedback giver #2
-  + item
+- Eleanor Warren
+  + I thought it was efficient of you to only bring in the variables that we want for the dataset instead of bringing them all in and then dropping them later.
+  + I think it’s great that you added function annotations to describe the expected inputs and outputs of your function.
+  + I would review your descriptions at each step for typos, and wherever you can, explain your work in a markdown cell even if you've put information within code comments.
+  + I also liked that you leverage the fact that a slice doesn’t include the last value in the range when you're training up until a certain day and then predicting the next day.
+  + Great use of augmented assignment in your CV calculation!
+  + Overall, just putting a few more markdown cells with full sentence explanations of what you're doing at each step will take this to the next level! Great work!
