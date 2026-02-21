@@ -11,5 +11,7 @@ Please replace “Feedback giver #x” with a group member’s name below and ad
 
 
 
-- Feedback giver #2
-  + item
+- Yefrid Cordoba
+  + Stephen, I agree with Eleanor, the work that you performed is great, the clarity of what is the purpose of each line of code is well stated.
+  + The structure of everything is solid, however, you redefine `find_best_c` and `calc_rmse`, later with a different meaning. It would be clearer to give the second version a new name, so you don't overwrite the earlier code, that might be confusing.
+  + When we write the description of the values, we have to be sure to state that the results will not make sense, since it didn't converged and a concentration cannot be negative. It is shown that it didn't converged in the output of that code chunck tho, amazing job!. 
