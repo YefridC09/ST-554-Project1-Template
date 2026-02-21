@@ -21,5 +21,8 @@ Please replace “Feedback giver #x” with a group member’s name below and ad
     * Exploring benzene ranges by temperature with different histogram bin cutoffs showed two perspectives of the same question
 
 
-- Feedback giver #2
-  + item
+- Yefrid Cordoba
+  + Great job Eleanor, renaming the columns was very helpful at the begining of the document, it was easy to follow what you did.
+  + I think it would be important to consider reporting the amount of data that was lost during the cleainig of missing values.
+  + The relation that you want to make between temperature and benzene concentration is important, to add more weight to that part I would consider important to show the temperature over time on the same graph with benzene concentration (daily might look good, or monthly), ploting temperature on a secondary y-axis.
+  + Adding a little more description of the correlations between the nose sensor readings for other gases againts benzene concentration (which are the ones that correlate better with the variable of interest). 
